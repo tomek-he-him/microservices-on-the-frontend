@@ -36,6 +36,10 @@
          d="M 0,36 36,36 36,0 0,0 0,36 Z"
          id="path18" />
     </clipPath>
+    <style
+       id="style4370">.cursor, .cursor * {
+  cursor: initial;
+}</style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -44,11 +48,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="2409.5443"
-     inkscape:cy="-385.06271"
+     inkscape:zoom="0.24895833"
+     inkscape:cx="370.75302"
+     inkscape:cy="-47597.572"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:snap-page="true"
@@ -85,8 +89,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,30199.666)"
-     style="display:inline;opacity:1"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:1">
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:7.55905553, 22.67716656;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4141"
@@ -285,7 +288,8 @@
        id="use5055"
        transform="translate(0,48000)"
        width="100%"
-       height="100%" />
+       height="100%"
+       class="cursor" />
     <use
        height="100%"
        width="100%"
@@ -349,23 +353,23 @@
        x="0"
        y="-30630.916" />
     <image
-       sodipodi:absref="/Users/tomek/microservices on the frontend/slides/assets/title slide.png"
+       sodipodi:absref="/Users/tomek/Documents/Lystable/microservices on the frontend/slides/assets/title slide.png"
        xlink:href="assets/title slide.png"
-       y="-30270.916"
-       x="0"
+       width="1920"
+       height="1200"
+       preserveAspectRatio="none"
        id="image4241"
-       preserveAspectRatio="none"
-       height="1200"
-       width="1920" />
-    <image
-       sodipodi:absref="/Users/tomek/microservices on the frontend/slides/assets/Fullscreen_08_03_17_14_12.png"
-       xlink:href="assets/Fullscreen_08_03_17_14_12.png"
-       y="-26270.916"
        x="0"
-       id="image4184"
-       preserveAspectRatio="none"
+       y="-30270.916" />
+    <image
+       sodipodi:absref="/Users/tomek/Documents/Lystable/microservices on the frontend/slides/assets/Fullscreen_08_03_17_14_12.png"
+       xlink:href="assets/Fullscreen_08_03_17_14_12.png"
+       width="1920"
        height="1200"
-       width="1920" />
+       preserveAspectRatio="none"
+       id="image4184"
+       x="0"
+       y="-26270.916" />
     <rect
        style="opacity:1;fill:#f5f8fa;fill-opacity:1;stroke:none;stroke-width:83.82639313;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4187"
@@ -374,14 +378,14 @@
        x="321.57785"
        y="-25089.471" />
     <image
-       sodipodi:absref="/Users/tomek/microservices on the frontend/slides/assets/26fd60a394bfdb578f4c02140e81b843.jpg"
+       sodipodi:absref="/Users/tomek/Documents/Lystable/microservices on the frontend/slides/assets/26fd60a394bfdb578f4c02140e81b843.jpg"
        xlink:href="assets/26fd60a394bfdb578f4c02140e81b843.jpg"
-       y="-22380.029"
-       x="2.2737368e-13"
-       id="image4194"
-       preserveAspectRatio="none"
+       width="1920"
        height="1418.2268"
-       width="1920" />
+       preserveAspectRatio="none"
+       id="image4194"
+       x="2.2737368e-13"
+       y="-22380.029" />
     <rect
        y="-22380.029"
        x="2.2737368e-13"
@@ -415,23 +419,23 @@
        x="2.2737368e-13"
        y="-24630.916" />
     <image
-       sodipodi:absref="/Users/tomek/microservices on the frontend/slides/assets/web-assembly-logo.png"
+       sodipodi:absref="/Users/tomek/Documents/Lystable/microservices on the frontend/slides/assets/web-assembly-logo.png"
        xlink:href="assets/web-assembly-logo.png"
-       y="-23928.465"
-       x="419.71259"
-       id="image4207"
-       preserveAspectRatio="none"
+       width="1080.5748"
        height="595.09918"
-       width="1080.5748" />
-    <image
-       sodipodi:absref="/Users/tomek/microservices on the frontend/slides/assets/viSm7.jpg"
-       xlink:href="assets/viSm7.jpg"
-       y="-20310.756"
-       x="2.2737368e-13"
-       id="image4218"
        preserveAspectRatio="none"
+       id="image4207"
+       x="419.71259"
+       y="-23928.465" />
+    <image
+       sodipodi:absref="/Users/tomek/Documents/Lystable/microservices on the frontend/slides/assets/viSm7.jpg"
+       xlink:href="assets/viSm7.jpg"
+       width="1920"
        height="1279.6801"
-       width="1920" />
+       preserveAspectRatio="none"
+       id="image4218"
+       x="2.2737368e-13"
+       y="-20310.756" />
     <rect
        style="opacity:0.8;fill:#029dd8;fill-opacity:1;stroke:none;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4223"
@@ -564,25 +568,25 @@
          sodipodi:role="line"
          id="tspan4459">experience</tspan></text>
     <image
-       style="display:inline"
-       sodipodi:absref="/Users/tomek/microservices on the frontend/assets/giphy (15).gif"
-       y="-12211.259"
-       x="2.2737368e-13"
-       id="image4641"
-       xlink:href="assets/giphy%20(15).gif"
-       preserveAspectRatio="none"
-       height="1080.6857"
-       width="1920" />
-    <image
-       sodipodi:absref="/Users/tomek/microservices on the frontend/slides/assets/giphy.gif"
-       xlink:href="assets/giphy.gif"
+       sodipodi:absref="/Users/tomek/Documents/Lystable/microservices on the frontend/slides/assets/giphy (15).gif"
+       xlink:href="assets/giphy (15).gif"
        width="1920"
        height="1080.6857"
        preserveAspectRatio="none"
-       id="image4652"
+       id="image4641"
        x="2.2737368e-13"
-       y="-10211.259"
+       y="-12211.259"
        style="display:inline" />
+    <image
+       sodipodi:absref="/Users/tomek/Documents/Lystable/microservices on the frontend/slides/assets/giphy.gif"
+       xlink:href="assets/giphy.gif"
+       style="display:inline"
+       y="-10211.259"
+       x="2.2737368e-13"
+       id="image4652"
+       preserveAspectRatio="none"
+       height="1080.6857"
+       width="1920" />
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10.07874012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:10.07874077, 30.23622226999999896;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4197-9-8-6"
@@ -591,14 +595,14 @@
        x="2.2737368e-13"
        y="-8630.916" />
     <image
-       sodipodi:absref="/Users/tomek/microservices on the frontend/slides/assets/barnimages_upload_32.jpg"
+       sodipodi:absref="/Users/tomek/Documents/Lystable/microservices on the frontend/slides/assets/barnimages_upload_32.jpg"
        xlink:href="assets/barnimages_upload_32.jpg"
-       width="1920"
-       height="1279.8719"
-       preserveAspectRatio="none"
-       id="image4894"
+       y="-4310.8521"
        x="2.2737368e-13"
-       y="-4310.8521" />
+       id="image4894"
+       preserveAspectRatio="none"
+       height="1279.8719"
+       width="1920" />
     <rect
        style="opacity:0.8;fill:#006d63;fill-opacity:1;stroke:none;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4897"
@@ -635,23 +639,23 @@
          id="tspan4907"
          style="stroke-width:2.96289659px">here</tspan></text>
     <image
-       sodipodi:absref="/Users/tomek/microservices on the frontend/slides/assets/emmet-brown.jpg"
+       sodipodi:absref="/Users/tomek/Documents/Lystable/microservices on the frontend/slides/assets/emmet-brown.jpg"
        xlink:href="assets/emmet-brown.jpg"
-       width="1920"
-       height="1080"
-       preserveAspectRatio="none"
+       y="-2210.916"
+       x="2.2737368e-13"
        id="image4917"
-       x="2.2737368e-13"
-       y="-2210.916" />
-    <image
-       sodipodi:absref="/Users/tomek/microservices on the frontend/slides/assets/B12-Touch-Studio-B12.png"
-       xlink:href="assets/B12-Touch-Studio-B12.png"
-       width="1920"
-       height="1080"
        preserveAspectRatio="none"
-       id="image4928"
+       height="1080"
+       width="1920" />
+    <image
+       sodipodi:absref="/Users/tomek/Documents/Lystable/microservices on the frontend/slides/assets/B12-Touch-Studio-B12.png"
+       xlink:href="assets/B12-Touch-Studio-B12.png"
+       y="1789.084"
        x="2.2737368e-13"
-       y="1789.084" />
+       id="image4928"
+       preserveAspectRatio="none"
+       height="1080"
+       width="1920" />
     <rect
        style="opacity:0.6;fill:#e42522;fill-opacity:1;stroke:none;stroke-width:10.96062946;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:21.92125984, 43.84251969000000315;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4931"
@@ -660,23 +664,23 @@
        x="1.5799786e-13"
        y="1789.084" />
     <image
-       sodipodi:absref="/Users/tomek/microservices on the frontend/slides/assets/FontShop___Tryout_fonts_before_you_buy.png"
+       sodipodi:absref="/Users/tomek/Documents/Lystable/microservices on the frontend/slides/assets/FontShop___Tryout_fonts_before_you_buy.png"
        xlink:href="assets/FontShop___Tryout_fonts_before_you_buy.png"
-       width="522.47101"
-       height="298.74286"
-       preserveAspectRatio="none"
-       id="image4941"
+       y="2199.7126"
        x="698.76453"
-       y="2199.7126" />
-    <image
-       sodipodi:absref="/Users/tomek/microservices on the frontend/slides/assets/Screenshot_08_03_17_16_56.png"
-       xlink:href="assets/Screenshot_08_03_17_16_56.png"
-       width="1726.8"
-       height="1080"
+       id="image4941"
        preserveAspectRatio="none"
-       id="image4952"
+       height="298.74286"
+       width="522.47101" />
+    <image
+       sodipodi:absref="/Users/tomek/Documents/Lystable/microservices on the frontend/slides/assets/Screenshot_08_03_17_16_56.png"
+       xlink:href="assets/Screenshot_08_03_17_16_56.png"
+       y="3789.084"
        x="96.599976"
-       y="3789.084" />
+       id="image4952"
+       preserveAspectRatio="none"
+       height="1080"
+       width="1726.8" />
     <rect
        style="opacity:1;fill:#8a70bd;fill-opacity:1;stroke:none;stroke-width:10.07874012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:10.07874077, 30.23622226999999896;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4197-9-8-61"
@@ -714,25 +718,25 @@
          sodipodi:role="line"
          id="tspan5030">style guide</tspan></text>
     <image
-       sodipodi:absref="/Users/tomek/microservices on the frontend/slides/assets/giphy.gif"
+       sodipodi:absref="/Users/tomek/Documents/Lystable/microservices on the frontend/slides/assets/giphy.gif"
        xlink:href="assets/giphy.gif"
-       style="display:inline;opacity:1"
-       y="7788.7383"
-       x="2.2737368e-13"
-       id="image4652-6"
-       preserveAspectRatio="none"
-       height="1080.6857"
-       width="1920" />
-    <image
-       sodipodi:absref="/Users/tomek/microservices on the frontend/slides/assets/wcgSVCQ.gif"
-       xlink:href="assets/wcgSVCQ.gif"
        width="1920"
-       height="1080"
+       height="1080.6857"
        preserveAspectRatio="none"
-       id="image5077"
+       id="image4652-6"
        x="2.2737368e-13"
-       y="11789.084"
+       y="7788.7383"
        style="display:inline;opacity:1" />
+    <image
+       sodipodi:absref="/Users/tomek/Documents/Lystable/microservices on the frontend/slides/assets/wcgSVCQ.gif"
+       xlink:href="assets/wcgSVCQ.gif"
+       style="display:inline;opacity:1"
+       y="11789.084"
+       x="2.2737368e-13"
+       id="image5077"
+       preserveAspectRatio="none"
+       height="1080"
+       width="1920" />
     <g
        id="g5106"
        transform="translate(40.485281,-33.45627)">
@@ -769,46 +773,6 @@
            id="tspan5104"
            sodipodi:role="line">i        questions</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:175.36651611px;line-height:125%;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.3841629px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="960.8905"
-       y="18147.902"
-       id="text5115"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5117"
-         x="960.8905"
-         y="18147.902"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';stroke-width:4.3841629px">@thetomekwi</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:137.63430786px;line-height:125%;font-family:Raleway;-inkscape-font-specification:'Raleway Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.44085789px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="959.60858"
-       y="18484.357"
-       id="text5119"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5121"
-         x="959.60858"
-         y="18484.357"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Light';stroke-width:3.44085789px">lystable.tech</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.24320984px;line-height:125%;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42182407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="126.04585"
-       y="18814.865"
-       id="text5129"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="126.04585"
-         y="18814.865"
-         id="tspan5133"
-         style="stroke-width:0.42182407px"><tspan
-   style="fill:#666666;stroke-width:0.42182407px"
-   id="tspan5143">https://</tspan>present.now.sh  •  <tspan
-   style="fill:#666666;stroke-width:0.42182407px"
-   id="tspan5137">https://</tspan>studi0-b12.github.io/bare-select</tspan></text>
     <rect
        y="9369.084"
        x="2.2737368e-13"
@@ -816,6 +780,108 @@
        width="1920"
        id="rect5298"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10.07874012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:10.07874077, 30.23622226999999896;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g4352"
+       class="cursor">
+      <a
+         xlink:href="https://twitter.com/thetomekwi"
+         id="a4348">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:175.36651611px;line-height:125%;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.3841629px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="960.8905"
+           y="18147.902"
+           id="text5115"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5117"
+             x="960.8905"
+             y="18147.902"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';stroke-width:4.3841629px">@thetomekwi</tspan></text>
+      </a>
+      <a
+         transform="translate(-0.41288498)"
+         xlink:href="http://lystable.tech"
+         id="a4312">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:137.63430786px;line-height:125%;font-family:Raleway;-inkscape-font-specification:'Raleway Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.44085789px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="959.60858"
+           y="18484.357"
+           id="text5119"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5121"
+             x="959.60858"
+             y="18484.357"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Light';stroke-width:3.44085789px">lystable.tech</tspan></text>
+      </a>
+      <g
+         style="fill:#666666"
+         transform="translate(0.4955851)"
+         id="g4337">
+        <a
+           style="fill:#666666"
+           id="a4322"
+           xlink:href="https://present.now.sh"
+           transform="matrix(1.2694165,0,0,1.2694165,-13.758602,-5071.6114)">
+          <text
+             sodipodi:linespacing="125%"
+             id="text5129"
+             y="18816.807"
+             x="48.505692"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.16600418px;line-height:125%;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.25624505px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="fill:#666666;stroke-width:0.25624505px"
+               id="tspan5133"
+               y="18816.807"
+               x="48.505692"
+               sodipodi:role="line">present.now.sh</tspan></text>
+        </a>
+        <a
+           style="fill:#666666"
+           id="a4327"
+           xlink:href="https://github.com/lystable/present.now.sh"
+           transform="matrix(1.2694165,0,0,1.2694165,-188.7619,-5071.6114)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.16600418px;line-height:125%;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.25624505px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="477.00577"
+             y="18816.807"
+             id="text5323"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="477.00577"
+               y="18816.807"
+               id="tspan5325"
+               style="fill:#666666;stroke-width:0.25624505px">github.com/lystable/present.now.sh</tspan></text>
+        </a>
+        <a
+           style="fill:#666666"
+           id="a4332"
+           xlink:href="https://studio-b12.github.io/bare-select"
+           transform="matrix(1.2694165,0,0,1.2694165,-363.03422,-5071.6114)">
+          <text
+             sodipodi:linespacing="125%"
+             id="text5331"
+             y="18816.807"
+             x="1248.1002"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.16600418px;line-height:125%;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.25624505px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="fill:#666666;stroke-width:0.25624505px"
+               id="tspan5333"
+               y="18816.807"
+               x="1248.1002"
+               sodipodi:role="line">studio-b12.github.io/bare-select</tspan></text>
+        </a>
+      </g>
+    </g>
+    <tspan
+       sodipodi:role="line"
+       id="tspan5121-5"
+       x="959.60858"
+       y="18484.357"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:137.63430786px;line-height:125%;font-family:Raleway;-inkscape-font-specification:'Raleway Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.44085789px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">lystable.tech</tspan>
   </g>
   <g
      inkscape:groupmode="layer"
